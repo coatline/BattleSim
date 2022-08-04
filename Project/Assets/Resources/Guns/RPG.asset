@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd68612cf5ac87b46a6d4d9a2a35b5ed, type: 3}
+  m_Name: RPG
+  m_EditorClassIdentifier: 
+  gunShotSound: {fileID: 8300000, guid: 710be5b26a5d42346bbebd452e17b260, type: 3}
+  projectile: {fileID: 3014099968828471595, guid: 28d7cccb370285343a2e7c13c24fe6a5,
+    type: 3}
+  sprite: {fileID: -957623191482880664, guid: 0f2ca74adf8d60c4c8b4a49b5c65134c, type: 3}
+  bulletAmount: 1
+  shotForce: 100
+  mindamage: 1
+  maxdamage: 2
+  shotRate: 1
+  range: 10

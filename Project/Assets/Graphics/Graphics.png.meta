@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: 0f2ca74adf8d60c4c8b4a49b5c65134c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2146026170076590280
+    second: Grass_Block
+  - first:
+      213: 7806604532441094862
+    second: Dirt_Block
+  - first:
+      213: -2535070256209354447
+    second: Man1
+  - first:
+      213: -1720329010989835188
+    second: Man2
+  - first:
+      213: 6288429051533372851
+    second: Man3
+  - first:
+      213: 2375512979593491097
+    second: Man4
+  - first:
+      213: 7296233023940188857
+    second: Health_Bar_Outer
+  - first:
+      213: -7300928910054741501
+    second: Explosion1
+  - first:
+      213: -2107716280546911632
+    second: Explosion2
+  - first:
+      213: 8011153499134307617
+    second: Explosion3
+  - first:
+      213: -768287472138149725
+    second: Bullet
+  - first:
+      213: 1974760215596019933
+    second: Missle
+  - first:
+      213: -2387876613048943151
+    second: Gun1
+  - first:
+      213: -341603764875671176
+    second: Gun2
+  - first:
+      213: -2198230129344704339
+    second: Gun3
+  - first:
+      213: -957623191482880664
+    second: Gun4
+  - first:
+      213: 9092931102484602777
+    second: Gun5
+  - first:
+      213: 6315430811659953423
+    second: Gun7
+  - first:
+      213: -6193903903610552698
+    second: Gun6
+  - first:
+      213: -8124717113727902181
+    second: WhiteSquare
+  - first:
+      213: -5009660791474191119
+    second: BarInner
+  - first:
+      213: 7472564356067029148
+    second: Flame1
+  - first:
+      213: -2585787797221620866
+    second: Flame2
+  - first:
+      213: -2653362861142665240
+    second: Flame3
+  - first:
+      213: -1084127958054717192
+    second: Flame4
+  - first:
+      213: -8662075319188904508
+    second: Wall
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grass_Block
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4840aac27c87947bea34728f37307b
+      internalID: -2146026170076590280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt_Block
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 151
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02691f0904fd8a9458c3428034a41842
+      internalID: 7806604532441094862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0012b8f322ed1f4db44ad64d7486449
+      internalID: -2535070256209354447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445eff2a065a8d14da71b0d68a30e11c
+      internalID: -1720329010989835188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde3503f762751f40a28ce1a87cf7c31
+      internalID: 6288429051533372851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abcb6ed78902d54b8436158e110221a
+      internalID: 2375512979593491097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Bar_Outer
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad8c74e51605cd4f9e416e365815a7f
+      internalID: 7296233023940188857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 154
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa8bd0a0e3dea44b7971f8d0d447f4
+      internalID: -7300928910054741501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 152
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c2840073d070043ad2119efc413f71
+      internalID: -2107716280546911632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 151
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7173a6a205632f4aac0d21c5c0371d9
+      internalID: 8011153499134307617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 240
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1903490a4ace564f93520341a8f7dd4
+      internalID: -768287472138149725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missle
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 232
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45631e2138dddbe43b1b19f6065c75bc
+      internalID: 1974760215596019933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 238
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff63aef35f4bbf64299b15dd63d6ecab
+      internalID: -2387876613048943151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 228
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6bc5761f4f4543b23383d6374c1f2
+      internalID: -341603764875671176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 219
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0a3501b069f0b4dba35f31cf5f41b8
+      internalID: -2198230129344704339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 206
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebf708bdc3533f4a82b800101eedb41
+      internalID: -957623191482880664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 194
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783fac114a7e50145903c2809029b727
+      internalID: 9092931102484602777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 179
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16a52f11efb22b468a26cfabf582688
+      internalID: 6315430811659953423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 235
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3706478688142ca4eaa117294c5c6770
+      internalID: -6193903903610552698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteSquare
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 172
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da82f5ea8b570064ead4b61343b42c9a
+      internalID: -8124717113727902181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarInner
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 169
+        width: 15
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8894070017fdc134882b6fa792902632
+      internalID: -5009660791474191119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 241
+        width: 16
+        height: 5
+      alignment: 9
+      pivot: {x: 0.03567505, y: 0.40970153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383df3b6af5390241be7ad0adbed65ae
+      internalID: 7472564356067029148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 17
+        height: 7
+      alignment: 9
+      pivot: {x: 0.02861023, y: 0.72474015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d7071295c45e5419fcf10e9483a567
+      internalID: -2585787797221620866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 240
+        width: 17
+        height: 7
+      alignment: 9
+      pivot: {x: 0.032359403, y: 0.5088915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6434f2c1f3656954886277f211f98398
+      internalID: -2653362861142665240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 240
+        width: 22
+        height: 7
+      alignment: 9
+      pivot: {x: 0.018792586, y: 0.499394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a219fce48761d44f90fa6387e4e5f13
+      internalID: -1084127958054717192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 151
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5211e04602ac780800000000000000
+      internalID: -8662075319188904508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8452159af6fc15b408ec4f4d03fc095f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Man2: -1720329010989835188
+      Flame1: 7472564356067029148
+      Gun4: -957623191482880664
+      Man3: 6288429051533372851
+      Man1: -2535070256209354447
+      Bullet: -768287472138149725
+      Gun1: -2387876613048943151
+      Grass_Block: -2146026170076590280
+      Flame4: -1084127958054717192
+      Dirt_Block: 7806604532441094862
+      Explosion2: -2107716280546911632
+      Man4: 2375512979593491097
+      BarInner: -5009660791474191119
+      Gun6: -6193903903610552698
+      Flame3: -2653362861142665240
+      Gun5: 9092931102484602777
+      Explosion3: 8011153499134307617
+      WhiteSquare: -8124717113727902181
+      Gun3: -2198230129344704339
+      Wall: -8662075319188904508
+      Explosion1: -7300928910054741501
+      Gun7: 6315430811659953423
+      Health_Bar_Outer: 7296233023940188857
+      Missle: 1974760215596019933
+      Gun2: -341603764875671176
+      Flame2: -2585787797221620866
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
